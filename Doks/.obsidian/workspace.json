@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оплата.md",
+                "file": "Таблицы/Clients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оплата"
+              "title": "Clients"
             }
           }
         ]
@@ -171,11 +171,14 @@
   },
   "active": "0c487e3fda5d432e",
   "lastOpenFiles": [
-    "Объекты/Позиция заказа.md",
-    "Объекты/Заказ.md",
     "Объекты/Клиент.md",
-    "Объекты/Пицца (выбор).md",
+    "Таблицы/Clients.md",
+    "Таблицы/Products.md",
     "Оплата.md",
+    "Таблицы",
+    "Объекты/Пицца (выбор).md",
+    "Объекты/Заказ.md",
+    "Объекты/Позиция заказа.md",
     "Объекты"
   ]
 }
